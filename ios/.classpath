@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="src" path="/Light Test-core" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/0.0.14/6935daa34fa3ff4274bb02734c0f45b6aebbc88d/robovm-rt-0.0.14-sources.jar" kind="lib" path="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-rt/0.0.14/fabfaf0fb756e10bab9db607e18c914986915273/robovm-rt-0.0.14.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-cocoatouch/0.0.14/6f10d40d8baea7379b21f728b4bc3a7eacb1f311/robovm-cocoatouch-0.0.14-sources.jar" kind="lib" path="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-cocoatouch/0.0.14/6d20cc1141c38d06da31602363061555b6cb2980/robovm-cocoatouch-0.0.14.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.3.1/9561e5ca673d31f28db496f0cbd79eb1998c5f9d/gdx-backend-robovm-1.3.1-sources.jar" kind="lib" path="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.3.1/a07f24ff2e981bf627ded7e24cab81be4a3f18ac/gdx-backend-robovm-1.3.1.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/0.0.14/43bbb96e0539c635f6993727256044aee0e0c894/robovm-objc-0.0.14-sources.jar" kind="lib" path="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/org.robovm/robovm-objc/0.0.14/385e5843270c5bf075003a218b9c58c3a734f9bb/robovm-objc-0.0.14.jar" exported="true"/>
+	<classpathentry sourcepath="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.3.1/58319f183d9088a80c2f2ba9009f5aaa2ce08714/gdx-1.3.1-sources.jar" kind="lib" path="C:/Users/Chris Ngai/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.3.1/18995f8b7b19118975722370818023c76a86fdf4/gdx-1.3.1.jar" exported="true"/>
+</classpath>
